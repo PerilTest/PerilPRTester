@@ -6,6 +6,9 @@
   "repository": "https://github.com/PerilTest/PerilPRTester.git",
   "author": "orta <orta.therox@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "danger": "danger"
+  },
   "devDependencies": {
     "danger": "^0.7.5"
   }
